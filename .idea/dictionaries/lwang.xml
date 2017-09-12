@@ -1,9 +1,14 @@
 <component name="ProjectDictionaryState">
   <dictionary name="lwang">
     <words>
+      <w>colorspace</w>
       <w>darknet</w>
       <w>dataset</w>
+      <w>filenames</w>
+      <w>preprocess</w>
       <w>relu</w>
+      <w>synset</w>
+      <w>synsets</w>
       <w>tfexample</w>
       <w>tfrecord</w>
     </words>
